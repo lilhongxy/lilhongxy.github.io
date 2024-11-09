@@ -21,7 +21,7 @@ Publications
   *EMNLP 2024 Findings*.
 
 - [On Large Language Models’ Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2410.08703)  
-  Jiang, Che, Biqing Qi, **Xiangyu Hong**, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou， Jie Zhou.  
+  Jiang, Che, Biqing Qi, **Xiangyu Hong**, Dayuan Fu, Yang Cheng, Fandong Meng, Mo Yu, Bowen Zhou，Jie Zhou.  
   *NAACL 2024 Main*.
 
 
