@@ -14,12 +14,9 @@ My research interests focus on understanding the inner workings of large languag
 - How can we deepen our understanding of model representations to detect hallucinations, pinpoint key nodes in information processing, and effectively extract and apply task-specific representations?
 
 
-
-
-
 Publications
 ======
--[On the token distance modeling ability of higher RoPE attention dimension]([https://arxiv.org/pdf/2410.08703]) 
+- [On the token distance modeling ability of higher RoPE attention dimension]([https://arxiv.org/pdf/2410.08703]) 
 
 **Hong, Xiangyu***, Che Jiang*, Biqing Qi, Fandong Meng, Mo Yu, Bowen Zhou and Jie Zhou.
 
