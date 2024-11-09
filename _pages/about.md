@@ -10,8 +10,8 @@ Hi, I'm Xiangyu Hong, a third-year undergraduate majoring in Electronic Engineer
 
 My research interests focus on understanding the inner workings of large language models (LLMs) and enhancing the interpretability of their behaviors. I aim to leverage this analysis to improve LLM performance and reliability. Some of the key questions I want to explore include:
 
-- How do contextual knowledge and model-encoded knowledge interact, particularly in scenarios involving knowledge conflict or complementarity?
-- How can we better understand model representations and use the theory to detect hallucinations, identify critical nodes in information processing, or extract and utilize task-specific representations?
+- How do contextual knowledge and model-encoded knowledge interact, especially in cases of knowledge conflict or complementarity?
+- How can we deepen our understanding of model representations to detect hallucinations, pinpoint key nodes in information processing, and effectively extract and apply task-specific representations?
 
 
 
