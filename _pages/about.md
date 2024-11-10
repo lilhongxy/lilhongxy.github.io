@@ -16,14 +16,11 @@ My research interests focus on understanding the inner workings of large languag
 
 Publications
 ======
-- [On the Token Distance Modeling Ability of Higher RoPE Attention Dimension](https://arxiv.org/pdf/2410.08703)  
+- [On the Token Distance Modeling Ability of Higher RoPE Attention Dimension](https://arxiv.org/pdf/2410.08703)  [Poster](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_poster.pdf) [PPT](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_slide.pptx)  
+
   **Xiangyu Hong**\*, Che Jiang\*, Biqing Qi, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.  
   *EMNLP 2024 Findings*.  
   Focused on long-text semantic modeling, with particular attention to the impact of rotary position encoding (RoPE) in enhancing LLM performance when processing long documents.
-
-  - [Poster](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_poster.pdf)  
-  - [PPT](https://your-repository-link.com/presentation.pptx)  
-  - [Video](https://your-repository-link.com/video.mp4)  
 
 
 - [On Large Language Models’ Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009)  
