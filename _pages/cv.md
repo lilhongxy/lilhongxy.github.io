@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 ---
+<a href="https://github.com/lilhongxy/lilhongxy.github.io/blob/master/files/cv_hxy.pdf" target="_blank">View my CV (PDF)</a>
 
-<iframe src="https://github.com/lilhongxy/lilhongxy.github.io/blob/master/files/cv_hxy.pdf" width="100%" height="600px"></iframe>
 
