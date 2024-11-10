@@ -12,7 +12,7 @@ title                    : "Xiangyu Hong"
 title_separator          : "-"
 name                     : &name "Xiangyu Hong"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lilhongxy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lilhongxy.github.io"
 
@@ -21,7 +21,7 @@ repository               : "lilhongxy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photoofme.png"
   name             : "Xiangyu Hong"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student at Tsinghua University. Interested in interpretability of LLMs"
