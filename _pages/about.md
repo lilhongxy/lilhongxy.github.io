@@ -17,7 +17,7 @@ My research interests focus on understanding the inner workings of large languag
 Publications
 ======
 - [On the Token Distance Modeling Ability of Higher RoPE Attention Dimension](https://arxiv.org/pdf/2410.08703)  
-  **Xiangyu Hong***, Che Jiang*, Biqing Qi, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.  
+  **Xiangyu Hong**\*, Che Jiang\*, Biqing Qi, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.  
   *EMNLP 2024 Findings*.
 
 - [On Large Language Models’ Hallucination with Regard to Known Facts](https://arxiv.org/pdf/2403.20009)  
