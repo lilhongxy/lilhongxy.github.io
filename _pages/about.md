@@ -16,7 +16,7 @@ My research interests focus on understanding the inner workings of large languag
 
 Publications
 ======
-- [On the Token Distance Modeling Ability of Higher RoPE Attention Dimension](https://arxiv.org/pdf/2410.08703)  &nbsp;&nbsp;&nbsp;[Poster](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_poster.pdf?raw=true)&nbsp;&nbsp;&nbsp;[Slide](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_slide.pptx)
+- [On the Token Distance Modeling Ability of Higher RoPE Attention Dimension](https://arxiv.org/pdf/2410.08703)  &nbsp;&nbsp;&nbsp;[Poster](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_poster.pdf?raw=true)&nbsp;&nbsp;&nbsp;[Slide](https://github.com/lilhongxy/lilhongxy.github.io/blob/master/_posts/On%20the%20token%20distance%20modeling%20ability%20of%20higher%20RoPE%20attention%20dimension_slide.pptx?raw=true)
 
 
   **Xiangyu Hong**\*, Che Jiang\*, Biqing Qi, Fandong Meng, Mo Yu, Bowen Zhou, Jie Zhou.  
