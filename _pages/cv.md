@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
----
-<a href="https://github.com/lilhongxy/lilhongxy.github.io/blob/master/files/cv_hxy.pdf?raw=true" target="_blank">View my CV (PDF)</a>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/lilhongxy/lilhongxy.github.io/master/files/cv_hxy.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 
