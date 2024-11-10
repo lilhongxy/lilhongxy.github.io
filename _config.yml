@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Xiangyu Hong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Undergraduate Student at Tsinghua University. Interested in interpretability of LLMs"
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -34,7 +34,6 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=nquv4VgAAAAJ"
   impactstory      : # URL
-  Github           : "https://github.com/lilhongxy"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
